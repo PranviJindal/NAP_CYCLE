@@ -1,0 +1,22 @@
+{
+  "name": "nap_cycle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test tests/napEngine.test.js tests/snoozeManager.test.js tests/firebaseService.test.js tests/analyticsEngine.test.js tests/e2eWorkflow.test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PranviJindal/NAP_CYCLE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PranviJindal/NAP_CYCLE/issues"
+  },
+  "homepage": "https://github.com/PranviJindal/NAP_CYCLE#readme"
+}
